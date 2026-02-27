@@ -1,0 +1,101 @@
+source_id,source_name_raw,source_name_clean,matched_lei,matched_legal_name,match_score,score_type,match_status,blocking_keys
+SUS0001032,Commercial International Bank Egypt (SAE) CIB,commercial international bank egypt sae cib,213800FIIXJAMEVRIH48,COMMERCIAL INTERNATIONAL BANK- EGYPT,100.0,combined_max_token_sort_token_set,auto,country=EGYPT|first_char=c|first_token=commercial
+SUS0010685,Proton Group,proton group,213800RVHQEHKJSDGO28,PROTON ΤΡΑΠΕΖΑ Α.Ε. ΥΠΟ ΕΙΔΙΚΗ ΕΚΚΑΘΑΡΙΣΗ,100.0,combined_max_token_sort_token_set,auto,country=SWEDEN|first_char=p|first_token=proton
+SUS0003752,Schindler Group,schindler group,529900A0JA8N6OJGBJ84,SCHINDLER SA,100.0,combined_max_token_sort_token_set,auto,country=SWITZERLAND|first_char=s|first_token=schindler
+SUS0003981,Sparks Marketing LLC,sparks marketing,254900QZ1VZCJ9DF4216,Sparks Marketing LLC,100.0,exact,auto,country=UNITED STATES OF AMERICA|first_char=s|first_token=sparks
+SUS0013451,Borges International Group,borges international group,9598009FQU4V02AEBN25,BORGES INTERNATIONAL GROUP SL,100.0,combined_max_token_sort_token_set,auto,country=SPAIN|first_char=b|first_token=borges
+SUS0010103,UFlex Limited,uflex,335800ARUS3DNRES4594,UFLEX LIMITED,100.0,exact,auto,country=INDIA|first_char=u|first_token=uflex
+SUS0002741,Mannion Daniels Limited,mannion daniels,213800279HVM4FH4ZC05,MANNION DANIELS LIMITED,100.0,exact,auto,country=UNITED KINGDOM|first_char=m|first_token=mannion
+SUS0011100,Tamro AB,tamro ab,5299003SPOEJV9KZ2J06,Tamro AB,100.0,exact,auto,country=SWEDEN|first_char=t|first_token=tamro
+SUS0010638,Gram Equipment,gram equipment,549300J0IYM7NEBY2D17,GRAM EQUIPMENT A/S,100.0,combined_max_token_sort_token_set,auto,country=DENMARK|first_char=g|first_token=gram
+SUS0005443,Fasadgruppen Group AB,fasadgruppen group ab,549300E24LG2Z7KCFQ23,Fasadgruppen Group AB (publ),100.0,combined_max_token_sort_token_set,auto,country=SWEDEN|first_char=f|first_token=fasadgruppen
+SUS0008844,CARBOTECH S.R.L.,carbotech s r l,81560041D0166827F387,CARBOTECH S.R.L.,100.0,exact,auto,country=ITALY|first_char=c|first_token=carbotech
+SUS0010822,PFI Holdco LLC,pfi holdco,254900SEJEZ8CHL7RO64,PFI LLC,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=p|first_token=pfi
+SUS0000502,"Autodesk, Inc.",autodesk,FRKKVKAIQEF3FCSTPG55,"AUTODESK, INC.",100.0,exact,auto,country=UNITED STATES OF AMERICA|first_char=a|first_token=autodesk
+SUS0012636,Jost Chemical Company,jost chemical,984500TEH0F494CE9008,Jost Chemical Co.,100.0,exact,auto,country=UNITED STATES OF AMERICA|first_char=j|first_token=jost
+SUS0009919,"Spectrix Analytical Services, LLC",spectrix analytical services,391200O0EHC8NJ9T6L20,SPECTRIX GmbH,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=s|first_token=spectrix
+SUS0000675,BLB CORPORATION,blb,3358005C3WES1EICOX66,BLB LIMITED,100.0,exact,auto,"country=KOREA, REPUBLIC OF|first_char=b|first_token=blb"
+SUS0001370,EDF Group,edf group,WD1Y6K3T16H37ZCSW856,EDF ENERGY GENERATION AND SUPPLY GROUP OF THE ELECTRICITY SUPPLY PENSION SCHEME,100.0,combined_max_token_sort_token_set,auto,country=FRANCE|first_char=e|first_token=edf
+SUS0011145,"REPRA CO.,LTD.",repra,984500167848D6CBDD49,REPRA DREAMS PRIVATE LIMITED,100.0,combined_max_token_sort_token_set,auto,country=JAPAN|first_char=r|first_token=repra
+SUS0008081,Apar Industries Limited,apar industries,335800UXT2HV4V3ZR581,APAR INDUSTRIES LIMITED,100.0,exact,auto,country=INDIA|first_char=a|first_token=apar
+SUS0008562,"Osaka Electric Industry Co.,Ltd.",osaka electric industry,894500TEEW764SR4B284,osaka,100.0,combined_max_token_sort_token_set,auto,country=JAPAN|first_char=o|first_token=osaka
+SUS0003225,OPTIMA packaging group GmbH,optima packaging group,2138002QHSYAOCCW7N72,OPTIMA ΧΡΗΜΑΤΟΔΟΤΙΚΕΣ ΜΙΣΘΩΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ,100.0,combined_max_token_sort_token_set,auto,country=GERMANY|first_char=o|first_token=optima
+SUS0002309,JCDecaux SE,jcdecaux se,9695009KV7AFPDEI5S30,JCDECAUX SE,100.0,exact,auto,country=FRANCE|first_char=j|first_token=jcdecaux
+SUS0013738,KoRo,koro,969500NC5AH5K3EVCE02,KORO,100.0,exact,auto,country=GERMANY|first_char=k|first_token=koro
+SUS0007669,Herd Mundy Richardson Limited,herd mundy richardson,213800QMF84GZ4SEL187,HERD MUNDY RICHARDSON LIMITED,100.0,exact,auto,country=UNITED KINGDOM|first_char=h|first_token=herd
+SUS0004248,TEREOS,tereos,9695006DTI17C4AP5761,TEREOS,100.0,exact,auto,country=FRANCE|first_char=t|first_token=tereos
+SUS0004934,Reitz Holding GmbH & Co. KG,reitz holding gmbh and co kg,529900UEFKZ64NS30Z65,Reitz Holding GmbH & Co KG,100.0,exact,auto,country=GERMANY|first_char=r|first_token=reitz
+SUS0002160,IMPRESSIONS SERVICES PRIVATE LIMITED,impressions services private,335800ZYO359IJKBWC19,IMPRESSIONS SERVICES PRIVATE LIMITED,100.0,exact,auto,country=INDIA|first_char=i|first_token=impressions
+SUS0002105,Humlegården Fastigheter AB,humlegarden fastigheter ab,549300HT0F6CFLJR3Y69,Humlegården Fastigheter AB,100.0,exact,auto,country=SWEDEN|first_char=h|first_token=humlegarden
+SUS0009885,"PSKW, LLC",pskw,254900Y3XGW5SWD3QV29,"PSKW Intermediate, LLC",100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=p|first_token=pskw
+SUS0004098,Superior Essex International LP,superior essex international,648815E839NQN4PF0J65,SUPERIOR INC,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=s|first_token=superior
+SUS0006425,"Sunwoda Electronic Co., Ltd.",sunwoda electronic,3358001TS2KP9GHJHN87,SUNWODA ELECTRONIC INDIA PRIVATE LIMITED,100.0,combined_max_token_sort_token_set,auto,country=CHINA|first_char=s|first_token=sunwoda
+SUS0006075,VIGNOLA NOBILE SPA,vignola nobile,815600ABEA9564794156,VIGNOLA NOBILE S.P.A.,100.0,exact,auto,country=ITALY|first_char=v|first_token=vignola
+SUS0003381,Plantasjen Group AS,plantasjen group as,549300HNV2UP5WIYPR41,PLANTASJEN GROUP AS,100.0,exact,auto,country=NORWAY|first_char=p|first_token=plantasjen
+SUS0012365,Fracht Northern Europe AG,fracht northern europe,506700F3Y957VVB52D23,Fracht Northern Europe AG,100.0,exact,auto,country=SWITZERLAND|first_char=f|first_token=fracht
+SUS0007327,CrowdStrike,crowdstrike,549300R070HUWKN8SG56,"CROWDSTRIKE, INC.",100.0,exact,auto,country=UNITED STATES OF AMERICA|first_char=c|first_token=crowdstrike
+SUS0007016,Mainstream Renewable Power Limited,mainstream renewable power,635400LGRACISBVUXU44,Mainstream Renewable Power Limited,100.0,exact,auto,country=IRELAND|first_char=m|first_token=mainstream
+SUS0009866,Groupe Ateliers de France,groupe ateliers de france,5493007NZIKZIHPF3785,GROUPE BV,100.0,combined_max_token_sort_token_set,auto,country=FRANCE|first_char=g|first_token=groupe
+SUS0006408,Yatra Online Limited,yatra online,335800NCIJN9W1JIID15,YATRA ONLINE LIMITED,100.0,exact,auto,country=INDIA|first_char=y|first_token=yatra
+SUS0011567,Eskilstuna Data Mekan AB,eskilstuna data mekan ab,636700KH9OJURJL19928,Eskilstuna Data Mekan AB,100.0,exact,auto,country=SWEDEN|first_char=e|first_token=eskilstuna
+SUS0005085,HÄRTHA GROUP GmbH,hartha group,529900BETG0UEBOJK919,HÄRTHA GROUP GmbH,100.0,exact,auto,country=GERMANY|first_char=h|first_token=hartha
+SUS0013456,Hauser Weinimport GmbH,hauser weinimport,529900EL72MRCB9DHY48,Hauser Weinimport GmbH,100.0,exact,auto,country=GERMANY|first_char=h|first_token=hauser
+SUS0010563,"HARVEY.,Ltd",harvey,984500B4K953972F0389,HARVEY,100.0,exact,auto,country=JAPAN|first_char=h|first_token=harvey
+SUS0009968,"HERO ELECTRIC CO.,LTD.",hero electric,529900099NYPCG4OHS15,Hero AG,100.0,combined_max_token_sort_token_set,auto,country=JAPAN|first_char=h|first_token=hero
+SUS0000368,APL Apollo Tubes Limited,apl apollo tubes,335800ZU4GXSB7Q4IU95,APL APOLLO TUBES LIMITED,100.0,exact,auto,country=INDIA|first_char=a|first_token=apl
+SUS0006564,SULO SAS,sulo sas,969500LXXY0BC19Y4M84,SULO SAS,100.0,exact,auto,country=FRANCE|first_char=s|first_token=sulo
+SUS0001223,Delta-Simons Environmental Consultants Limited,delta simons environmental consultants,5493004HUJIRIUY8XF20,DELTA LIMITED,100.0,combined_max_token_sort_token_set,auto,country=UNITED KINGDOM|first_char=d|first_token=delta
+SUS0013729,Water Plus Limited,water plus,54930075OVPZP6MC4674,WATER,100.0,combined_max_token_sort_token_set,auto,country=UNITED KINGDOM|first_char=w|first_token=water
+SUS0011303,Aegg,aegg,213800OX3YGMSVC2LM14,AEGG LTD,100.0,exact,auto,country=UNITED KINGDOM|first_char=a|first_token=aegg
+SUS0002704,Mahindra Accelo,mahindra accelo,335800ROPMDOMM9RM189,MAHINDRA ACCELO LIMITED,100.0,exact,auto,country=INDIA|first_char=m|first_token=mahindra
+SUS0010529,mnemonic AS,mnemonic as,549300CXNXKZRO9HH549,MNEMONIC AS,100.0,exact,auto,country=NORWAY|first_char=m|first_token=mnemonic
+SUS0003941,Sodexo Pass Belgium,sodexo pass belgium,969500LCBOG12HXPYM84,SODEXO,100.0,combined_max_token_sort_token_set,auto,country=BELGIUM|first_char=s|first_token=sodexo
+SUS0004155,Tag Worldwide Holdings Ltd (UK),tag worldwide holdings ltd uk,213800L6VEHQT8JB6R49,TAG WORLDWIDE HOLDINGS LIMITED,100.0,combined_max_token_sort_token_set,auto,country=UNITED KINGDOM|first_char=t|first_token=tag
+SUS0001510,EV Logistik GmbH,ev logistik,35380039J9RQYWC16U60,グローバルEV関連株ファンド（為替ヘッジあり）,100.0,combined_max_token_sort_token_set,auto,country=GERMANY|first_char=e|first_token=ev
+SUS0003730,SATS Ltd.,sats,529900SEP1R0K8049D51,SATS LTD.,100.0,exact,auto,country=SINGAPORE|first_char=s|first_token=sats
+SUS0002753,Maritime Transport Ltd,maritime transport,2138006VVCUX3D7Z7838,MARITIME TRANSPORT LIMITED,100.0,exact,auto,country=UNITED KINGDOM|first_char=m|first_token=maritime
+SUS0000036,Innolux Corporation,innolux,335800QJRSREIMFURP02,INNOLUX OPTOELECTRONICS INDIA PRIVATE LIMITED,100.0,combined_max_token_sort_token_set,auto,"country=TAIWAN, PROVINCE OF CHINA|first_char=i|first_token=innolux"
+SUS0007306,Garic Ltd,garic,213800PYI6HPUI7E2R23,GARIC LIMITED,100.0,exact,auto,country=UNITED KINGDOM|first_char=g|first_token=garic
+SUS0003420,Preqin,preqin,254900D30QAFPGRHX386,PREQIN LTD,100.0,exact,auto,country=UNITED KINGDOM|first_char=p|first_token=preqin
+SUS0004744,Wolters Kluwer N.V.,wolters kluwer n v,724500TEM53I0U077B74,Wolters Kluwer N.V.,100.0,exact,auto,country=NETHERLANDS|first_char=w|first_token=wolters
+SUS0006881,Wireless Logic Ltd,wireless logic,2138005RQ7JMGWEFB808,WIRELESS LOGIC LIMITED,100.0,exact,auto,country=UNITED KINGDOM|first_char=w|first_token=wireless
+SUS0000881,"Cathay Financial Holding Co., Ltd",cathay financial holding,5299004DBW3MVOK1FU90,ＣＡＴＨＡＹ顾问（北京）有限公司,100.0,combined_max_token_sort_token_set,auto,"country=TAIWAN, PROVINCE OF CHINA|first_char=c|first_token=cathay"
+SUS0010534,"DeNA Co., Ltd.",dena,529900T9JQP7I5LDY154,"DeNA Co., Ltd.",100.0,exact,auto,country=JAPAN|first_char=d|first_token=dena
+SUS0003857,Shree Cement Ltd.,shree cement,335800W6FNBDUZ89L830,SHREE CEMENT LIMITED,100.0,exact,auto,country=INDIA|first_char=s|first_token=shree
+SUS0003525,RATP,ratp,969500J9KG4HF67VC976,RATP DEVELOPPEMENT,100.0,combined_max_token_sort_token_set,auto,country=FRANCE|first_char=r|first_token=ratp
+SUS0013549,Design 103 International Limited,design 103 international,5299009I5RRUWJ7TPJ72,Design International Inc.,100.0,combined_max_token_sort_token_set,auto,country=THAILAND|first_char=d|first_token=design
+SUS0007245,PELLICONI & C. SPA,pelliconi and c,8156002343835708A857,PELLICONI & C. - SOCIETA' PER AZIONI,100.0,combined_max_token_sort_token_set,auto,country=ITALY|first_char=p|first_token=pelliconi
+SUS0003379,PlanA.Earth GmbH,plana earth,967600WD64PMX2S7DL52,PLANA AG,100.0,combined_max_token_sort_token_set,auto,country=GERMANY|first_char=p|first_token=plana
+SUS0008050,SpareBank 1 SMN,sparebank 1 smn,5967007LIEEXZX5CPS62,SPAREBANK 1 SMN INVEST AS,100.0,combined_max_token_sort_token_set,auto,country=NORWAY|first_char=s|first_token=sparebank
+SUS0007809,REWE-ZENTRALFINANZ eG,rewe zentralfinanz eg,5299009CUQ7OPH9OIO05,REWE-ZENTRALFINANZ eG,100.0,exact,auto,country=GERMANY|first_char=r|first_token=rewe
+SUS0007081,Desiderata Consultingb Ltd,desiderata consultingb,391200Q8Q1UWTGOBRE65,Desiderata GmbH,100.0,combined_max_token_sort_token_set,auto,country=UNITED KINGDOM|first_char=d|first_token=desiderata
+SUS0009404,Cabka,cabka,5493008PCHR1KJWIDE62,CABKA,100.0,exact,auto,country=GERMANY|first_char=c|first_token=cabka
+SUS0003460,PT PRIMA SEJATI SEJAHTERA,prima sejati sejahtera,213800VMWJSZSHJHXP53,PRIMA ΣΥΜΜΕΤΟΧΕΣ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΗ ΕΤΑΙΡΕΙΑ,100.0,combined_max_token_sort_token_set,auto,country=INDONESIA|first_char=p|first_token=prima
+SUS0000163,Actavo (Group) Limited,actavo group,635400MVXZ1QLWYY1269,Actavo Group Limited,100.0,exact,auto,country=IRELAND|first_char=a|first_token=actavo
+SUS0012068,IDM ASSOCIATES LIMITED,idm associates,969500XEQ1KKUXGBTX12,IDM,100.0,combined_max_token_sort_token_set,auto,country=CHINA|first_char=i|first_token=idm
+SUS0009082,Kodama Co.,kodama,969500OA1X3FKU25QZ93,KODAMA,100.0,exact,auto,country=JAPAN|first_char=k|first_token=kodama
+SUS0010768,RGREEN INVEST,rgreen invest,969500W4RH498UUOLF61,RGREEN INVEST,100.0,exact,auto,country=FRANCE|first_char=r|first_token=rgreen
+SUS0012321,Allied,allied,213800A4IDFXDBOVQW97,ALLIED FILTER SYSTEMS LIMITED,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=a|first_token=allied
+SUS0003854,Shoprite Holdings (Pty) Ltd,shoprite holdings pty,529900Q4O1EYP6NH5150,Shoprite Holdings,100.0,combined_max_token_sort_token_set,auto,country=SOUTH AFRICA|first_char=s|first_token=shoprite
+SUS0013568,BDO URUGUAY,bdo uruguay,213800A5193Z97IT9H75,BDO LLP,100.0,combined_max_token_sort_token_set,auto,country=URUGUAY|first_char=b|first_token=bdo
+SUS0010115,Conrad Electronic,conrad electronic,259400QBNZT6WUT1UH29,CONRAD ELECTRONIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,100.0,combined_max_token_sort_token_set,auto,country=GERMANY|first_char=c|first_token=conrad
+SUS0013148,Positivo Tecnologia,positivo tecnologia,5493000DDMHMEG5KI823,POSITIVO TECNOLOGIA S.A.,100.0,exact,auto,country=BRAZIL|first_char=p|first_token=positivo
+SUS0004257,Teva Pharmaceutical Industries Ltd.,teva pharmaceutical industries,335800822YURE5CR8K47,TEVA PHARMACEUTICAL AND CHEMICAL INDUSTRIES INDIA PRIVATE LIMITED,100.0,combined_max_token_sort_token_set,auto,country=ISRAEL|first_char=t|first_token=teva
+SUS0009878,Molecular Connections Private,molecular connections private,335800NEKD6R6YHTRM03,MOLECULAR CONNECTIONS PRIVATE LIMITED,100.0,exact,auto,country=INDIA|first_char=m|first_token=molecular
+SUS0007846,FAME Inc.,fame,549300Z3I1JDGBP9OH43,FAME LIMITED,100.0,exact,auto,country=JAPAN|first_char=f|first_token=fame
+SUS0006439,Waste Connections,waste connections,549300HDLRTPBQU69P29,"WASTE CONNECTIONS, INC.",100.0,exact,auto,country=CANADA|first_char=w|first_token=waste
+SUS0011347,tmf group,tmf group,2138008IPNDJXVAEOR79,TMF GROUP PLC,100.0,exact,auto,country=UNITED KINGDOM|first_char=t|first_token=tmf
+SUS0000126,ABF Sugar,abf sugar,984500KV098DEBF75971,ABF GmbH,100.0,combined_max_token_sort_token_set,auto,country=UNITED KINGDOM|first_char=a|first_token=abf
+SUS0007834,Coventry Building Society,coventry building society,2138004G59FXEAZ6IO10,COVENTRY BUILDING SOCIETY,100.0,exact,auto,country=UNITED KINGDOM|first_char=c|first_token=coventry
+SUS0012765,"KEEN, Inc.",keen,5493000S6U1FBZ975490,"KEEN, INC.",100.0,exact,auto,country=UNITED STATES OF AMERICA|first_char=k|first_token=keen
+SUS0006407,Isabellenhütte Heusler GmbH & Co. KG,isabellenhutte heusler gmbh and co kg,529900FDW9AAQZHDLK37,Isabellenhütte Heusler GmbH & Co. KG,100.0,exact,auto,country=GERMANY|first_char=i|first_token=isabellenhutte
+SUS0007365,"Interscience Co.,Ltd.",interscience,9695005SDQYR4T4X4216,INTERSCIENCE,100.0,exact,auto,country=JAPAN|first_char=i|first_token=interscience
+SUS0009464,Scholtus Special Products b.v.,scholtus special products b v,724500AP4EJTSJKLXB14,Scholtus Special Products B.V.,100.0,exact,auto,country=NETHERLANDS|first_char=s|first_token=scholtus
+SUS0007154,"Sankyu Industry Co., Ltd.",sankyu industry,529900QWTXZZEM1T5G75,Sankyu Inc.,100.0,combined_max_token_sort_token_set,auto,country=JAPAN|first_char=s|first_token=sankyu
+SUS0006609,Kohn Pedersen Fox PC Associates,kohn pedersen fox pc associates,3912005VZ19F6STZG735,Kohn GmbH,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=k|first_token=kohn
+SUS0002826,Melia Hotels International SA,melia hotels international,959800JRKSZ6YZD4EL80,MELIA HOTELS INTERNATIONAL SA,100.0,exact,auto,country=SPAIN|first_char=m|first_token=melia
+SUS0011674,"RISE Accel Co.,Ltd.",rise accel,529900207YZDYFQ8RT96,Rise Corporation,100.0,combined_max_token_sort_token_set,auto,country=THAILAND|first_char=r|first_token=rise
+SUS0010261,Comscore,comscore,3358005VQSJP7RPOWB32,COMSCORE TECHNOLOGIES INDIA PRIVATE LIMITED,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=c|first_token=comscore
+SUS0000526,Axiata Group Berhad,axiata group berhad,254900DM0V7OCPDUUC55,Axiata Group Berhad,100.0,exact,auto,country=MALAYSIA|first_char=a|first_token=axiata
+SUS0002141,IG Group Holdings PLC,ig group holdings,2138003A5Q1M7ANOUD76,IG GROUP HOLDINGS PLC,100.0,exact,auto,country=UNITED KINGDOM|first_char=i|first_token=ig
+SUS0010719,"Educational Resource Systems, Inc.",educational resource systems,549300F2GDWKJH3GMB47,EDUCATIONAL SYSTEMS,100.0,combined_max_token_sort_token_set,auto,country=UNITED STATES OF AMERICA|first_char=e|first_token=educational

@@ -1,0 +1,48 @@
+paths:
+  raw_dir: data/raw
+  raw_gleif_dir: data/raw/gleif
+  processed_dir: data/processed
+  samples_dir: data/samples
+  logs_dir: logs
+
+  sustainability_template: data/raw/sustainability_source_template.csv
+  sustainability_output: data/processed/sustainability_source.csv
+  run_manifest: data/processed/run_manifest.json
+  match_crosswalk: data/processed/match_crosswalk.csv
+  review_candidates: data/processed/review_candidates.csv
+  match_diagnostics: data/processed/match_diagnostics.json
+
+  level1_csv: data/processed/gleif_entities_clean.csv
+  level1_parquet: data/processed/gleif_entities_clean.parquet
+  level2_csv: data/processed/gleif_relationships_clean.csv
+  level2_parquet: data/processed/gleif_relationships_clean.parquet
+  edges_csv: data/processed/edges.csv
+  nodes_csv: data/processed/nodes.csv
+  preprocess_stats: data/processed/preprocess_stats.json
+
+inputs:
+  # Local inputs only. These can be absolute or project-relative paths.
+  gleif_level1: /path/to/20260219-gleif-concatenated-file-lei2.xml.6996d6943c89b
+  gleif_level2: /path/to/20260219-gleif-concatenated-file-rr.xml.6996d3f429e09
+  gleif_repex: /path/to/20260219-gleif-concatenated-file-repex.xml.6996d4d281e89
+
+  sbti_excel: /path/to/SBTi by companies-excel.xlsx
+  re100_csv: data/raw/initiative_lists/re100_members_first100_from_paste.csv
+  ev100_csv: data/raw/initiative_lists/ev100_members_from_paste.csv
+  ep100_csv: data/raw/initiative_lists/ep100_members_from_paste.csv
+  sustainability_source_csv: data/processed/sustainability_source.csv
+
+matching:
+  auto_threshold: 95.0
+  review_threshold: 85.0
+  unmatched_threshold: 0.0
+  top_k_candidates: 3
+  max_block_candidates: 50
+
+blocking:
+  use_country: true
+  use_first_token: true
+  use_first_char: true
+
+parsing:
+  write_chunk_size: 100000

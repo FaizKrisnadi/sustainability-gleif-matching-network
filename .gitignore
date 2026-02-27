@@ -1,0 +1,40 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+config.yaml
+
+# Large/local artifacts never committed
+*.parquet
+*.duckdb
+*.sqlite
+*.db
+*.xlsx
+
+# Common extracted/intermediate raw files
+*.xml
+*.xml.gz
+*.xml.zip
+*.zip
+*.gz
+*.bz2
+
+# Keep raw-input templates only (no heavy raw data in git)
+data/raw/**
+!data/raw/.gitkeep
+!data/raw/sustainability_source_template.csv
+!data/raw/initiative_lists/
+data/raw/initiative_lists/**
+!data/raw/initiative_lists/.gitkeep
+!data/raw/initiative_lists/README.md
+
+# Keep processed outputs local only
+data/processed/**
+!data/processed/.gitkeep
+
+# Keep git-safe samples
+!data/samples/
+
+# Logs are text artifacts and should be retained

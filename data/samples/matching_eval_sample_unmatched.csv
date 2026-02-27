@@ -1,0 +1,101 @@
+source_id,source_name_raw,source_name_clean,matched_lei,matched_legal_name,match_score,score_type,match_status,blocking_keys
+SUS0005881,East Japan Railway Company,east japan railway,,,80.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=e|first_token=east
+SUS0012949,Conceptum Logistics (Finland) Oy Ltd,conceptum logistics finland oy,,,82.6086956521739,combined_max_token_sort_token_set,unmatched,country=FINLAND|first_char=c|first_token=conceptum
+SUS0001338,e-hoch-3 eco impact experts GmbH & Co. KG,e hoch 3 eco impact experts gmbh and co kg,,,52.63157894736842,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=e|first_token=e
+SUS0014142,Corgan,corgan,,,50.0,combined_max_token_sort_token_set,unmatched,country=NA|first_char=c|first_token=corgan
+SUS0013230,"Zhangzhou lixing import & export trade co.,ltd",zhangzhou lixing import and export trade,,,44.44444444444444,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=z|first_token=zhangzhou
+SUS0007868,KUBO GREENHOUSE PROJECTS,kubo greenhouse projects,,,72.72727272727272,combined_max_token_sort_token_set,unmatched,country=NETHERLANDS|first_char=k|first_token=kubo
+SUS0001760,Geomatikk Group,geomatikk group,,,50.0,combined_max_token_sort_token_set,unmatched,country=NORWAY|first_char=g|first_token=geomatikk
+SUS0007568,SANKYO.SMF.CO,sankyo smf,,,75.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=s|first_token=sankyo
+SUS0008338,Cambridge Cognition Holdings plc,cambridge cognition holdings,,,81.81818181818181,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=c|first_token=cambridge
+SUS0008206,"Whitsell Innovations, Inc",whitsell innovations,,,59.57446808510638,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=w|first_token=whitsell
+SUS0007371,P/F Poul Michelsen,p f poul michelsen,,,53.65853658536586,combined_max_token_sort_token_set,unmatched,country=DENMARK|first_char=p|first_token=p
+SUS0004805,Yorglass Endüstriyel Cam San. ve Tic. A. Ş,yorglass endustriyel cam san ve tic a s,,,54.54545454545455,combined_max_token_sort_token_set,unmatched,country=TÜRKIYE|first_char=y|first_token=yorglass
+SUS0001147,D'decor Home Fabrics Pvt Ltd,d decor home fabrics pvt,,,51.282051282051285,combined_max_token_sort_token_set,unmatched,country=INDIA|first_char=d|first_token=d
+SUS0007825,"SK shieldus Co., Ltd",sk shieldus,,,54.54545454545455,combined_max_token_sort_token_set,unmatched,"country=KOREA, REPUBLIC OF|first_char=s|first_token=sk"
+SUS0010171,Logent AB,logent ab,,,55.55555555555556,combined_max_token_sort_token_set,unmatched,country=SWEDEN|first_char=l|first_token=logent
+SUS0011247,Mullrose B.V.,mullrose b v,,,54.54545454545455,combined_max_token_sort_token_set,unmatched,country=NETHERLANDS|first_char=m|first_token=mullrose
+SUS0004538,USIMECA USINAGEM INDUSTRIAL,usimeca usinagem industrial,,,47.82608695652174,combined_max_token_sort_token_set,unmatched,country=BRAZIL|first_char=u|first_token=usimeca
+SUS0005889,Gold Circuit Electronics Ltd.,gold circuit electronics,,,80.0,combined_max_token_sort_token_set,unmatched,"country=TAIWAN, PROVINCE OF CHINA|first_char=g|first_token=gold"
+SUS0011252,"Tubest Packing (GD) Co., Ltd.",tubest packing gd,,,59.45945945945946,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=t|first_token=tubest
+SUS0007972,5CA,5ca,,,66.66666666666667,combined_max_token_sort_token_set,unmatched,country=NETHERLANDS|first_char=5|first_token=5ca
+SUS0003667,S&P Global Inc.,s and p global,,,68.96551724137932,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=s|first_token=s
+SUS0009321,"KITAMURA HOLDINGS Co.,Ltd.",kitamura holdings,,,42.85714285714286,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=k|first_token=kitamura
+SUS0011449,Bryden Wood,bryden wood,,,70.58823529411765,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=b|first_token=bryden
+SUS0001885,Grupo Antolin Irausa S.A.U.,grupo antolin irausa s a u,,,66.66666666666666,combined_max_token_sort_token_set,unmatched,country=SPAIN|first_char=g|first_token=grupo
+SUS0003464,PT. Indo Oil Perkasa Tbk,indo oil perkasa,,,66.66666666666666,combined_max_token_sort_token_set,unmatched,country=INDONESIA|first_char=i|first_token=indo
+SUS0011886,webtotrade GmbH,webtotrade,,,46.15384615384615,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=w|first_token=webtotrade
+SUS0013758,N-Power Medicine,n power medicine,,,57.142857142857146,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=n|first_token=n
+SUS0004260,Thai Beverage PLC,thai beverage,,,72.72727272727272,combined_max_token_sort_token_set,unmatched,country=THAILAND|first_char=t|first_token=thai
+SUS0013662,"Tohkoh Giken Co., Ltd.",tohkoh giken,,,41.1764705882353,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=t|first_token=tohkoh
+SUS0006010,Max Baermann GmbH,max baermann,,,70.0,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=m|first_token=max
+SUS0004781,YAMABISHI Corporation,yamabishi,,,34.78260869565217,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=y|first_token=yamabishi
+SUS0003216,onsemi,onsemi,,,40.0,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=o|first_token=onsemi
+SUS0008342,"NIPPONKANZAIHOLDINGS CO.,Ltd.",nipponkanzaiholdings,,,39.130434782608695,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=n|first_token=nipponkanzaiholdings
+SUS0007487,Burgess Farms Limited,burgess farms,,,70.0,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=b|first_token=burgess
+SUS0001415,Ellerhold Oldenburg GmbH,ellerhold oldenburg,,,64.28571428571428,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=e|first_token=ellerhold
+SUS0011699,"Hebei Nanguan Technology Co., Ltd.",hebei nanguan technology,,,40.81632653061224,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=h|first_token=hebei
+SUS0001560,Fastighets AB Regio,fastighets ab regio,,,84.21052631578948,combined_max_token_sort_token_set,unmatched,country=SWEDEN|first_char=f|first_token=fastighets
+SUS0009795,"Hangzhou Great Tools CO.,LTD.",hangzhou great tools,,,57.142857142857146,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=h|first_token=hangzhou
+SUS0001045,"COMPAÑÍA HULERA TORNEL SA DE CV., MEXICO",compania hulera tornel sa de cv mexico,,,80.0,combined_max_token_sort_token_set,unmatched,country=MEXICO|first_char=c|first_token=compania
+SUS0011476,"Hebei Guangxiang Pharmaceutical Co., Ltd.",hebei guangxiang pharmaceutical,,,35.71428571428571,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=h|first_token=hebei
+SUS0009411,"Ohnuki Manufacturing Industry Co.,LTD",ohnuki manufacturing industry,,,43.63636363636364,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=o|first_token=ohnuki
+SUS0007547,"The Yokohama Rubber Co., Ltd.",the yokohama rubber,,,50.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=t|first_token=the
+SUS0013491,Shandong Huimin Zhanpeng Rope Net Limited Company,shandong huimin zhanpeng rope net,,,59.375,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=s|first_token=shandong
+SUS0005516,"SINKO KINZOKU Co.,Ltd",sinko kinzoku,,,46.15384615384615,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=s|first_token=sinko
+SUS0009906,Souvereyns NV,souvereyns,,,44.44444444444444,combined_max_token_sort_token_set,unmatched,country=BELGIUM|first_char=s|first_token=souvereyns
+SUS0009366,tag8,tag8,,,33.333333333333336,combined_max_token_sort_token_set,unmatched,country=INDIA|first_char=t|first_token=tag8
+SUS0004954,Oakdene Hollins Ltd.,oakdene hollins,,,64.51612903225806,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=o|first_token=oakdene
+SUS0010503,RiverRidge,riverridge,,,41.379310344827594,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=r|first_token=riverridge
+SUS0011246,Rustenberg Wines,rustenberg wines,,,50.0,combined_max_token_sort_token_set,unmatched,country=SOUTH AFRICA|first_char=r|first_token=rustenberg
+SUS0009311,Unibloom World Ltd,unibloom world,,,38.46153846153846,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=u|first_token=unibloom
+SUS0002580,Legal & General Assurance Society,legal and general assurance society,,,82.92682926829268,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=l|first_token=legal
+SUS0012842,Changzhou Yuyuang Textile Ltd.,changzhou yuyuang textile,,,54.23728813559322,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=c|first_token=changzhou
+SUS0001583,Fidocar,fidocar,,,48.0,combined_max_token_sort_token_set,unmatched,country=URUGUAY|first_char=f|first_token=fidocar
+SUS0007711,Dr. Sasse Gruppe,dr sasse gruppe,,,52.17391304347826,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=d|first_token=dr
+SUS0003177,OCHSNER Wärmepumpen GmbH,ochsner warmepumpen,,,70.0,combined_max_token_sort_token_set,unmatched,country=AUSTRIA|first_char=o|first_token=ochsner
+SUS0010804,Sangetsu Corporation,sangetsu,,,48.27586206896552,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=s|first_token=sangetsu
+SUS0010212,AIWF TECHNOLOGIES PRIVATE LIMITED,aiwf technologies private,,,76.59574468085107,combined_max_token_sort_token_set,unmatched,country=INDIA|first_char=a|first_token=aiwf
+SUS0005262,Die Keure Printing & Publishing,die keure printing and publishing,,,60.869565217391305,combined_max_token_sort_token_set,unmatched,country=BELGIUM|first_char=d|first_token=die
+SUS0001309,Dr. Otto Suwelack Nachf. GmbH&Co.KG,dr otto suwelack nachf gmbh and co kg,,,48.0,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=d|first_token=dr
+SUS0013483,"Takashima Eisei Co.,Ltd",takashima eisei,,,75.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=t|first_token=takashima
+SUS0002509,Kubrick Group Limited,kubrick group,,,55.55555555555556,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=k|first_token=kubrick
+SUS0012137,Carolina Components Group,carolina components group,,,84.21052631578948,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=c|first_token=carolina
+SUS0004978,Huiskula Oy,huiskula oy,,,45.45454545454546,combined_max_token_sort_token_set,unmatched,country=FINLAND|first_char=h|first_token=huiskula
+SUS0012265,VoCoVo,vocovo,,,40.0,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=v|first_token=vocovo
+SUS0002412,Kekén,keken,,,34.78260869565217,combined_max_token_sort_token_set,unmatched,country=MEXICO|first_char=k|first_token=keken
+SUS0008435,Suven Pharmaceuticals Limited,suven pharmaceuticals,,,58.82352941176471,combined_max_token_sort_token_set,unmatched,country=INDIA|first_char=s|first_token=suven
+SUS0013992,BEVCO SRL,bevco srl,,,71.42857142857143,combined_max_token_sort_token_set,unmatched,country=ITALY|first_char=b|first_token=bevco
+SUS0013366,BDEVIT,bdevit,,,42.10526315789474,combined_max_token_sort_token_set,unmatched,country=FRANCE|first_char=b|first_token=bdevit
+SUS0000227,"AISACHI Co.,Ltd.",aisachi,,,60.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=a|first_token=aisachi
+SUS0012604,28B Ltd,28b,,,66.66666666666667,combined_max_token_sort_token_set,unmatched,country=UNITED KINGDOM|first_char=2|first_token=28b
+SUS0010548,"Morgan, Lewis & Bockius LLP",morgan lewis and bockius,,,71.42857142857143,combined_max_token_sort_token_set,unmatched,country=UNITED STATES OF AMERICA|first_char=m|first_token=morgan
+SUS0000839,Cappelen Damm Holding AS,cappelen damm holding as,,,58.82352941176471,combined_max_token_sort_token_set,unmatched,country=NORWAY|first_char=c|first_token=cappelen
+SUS0000496,Australian Postal Corporation,australian postal,,,82.35294117647058,combined_max_token_sort_token_set,unmatched,country=AUSTRALIA|first_char=a|first_token=australian
+SUS0008151,"Shenzhen Zhongrui Standard Technical Services Co.,Ltd",shenzhen zhongrui standard technical services,,,65.38461538461539,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=s|first_token=shenzhen
+SUS0007673,"GREEN WISE CO., LTD.",green wise,,,71.42857142857143,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=g|first_token=green
+SUS0005297,TourCompass,tourcompass,,,41.379310344827594,combined_max_token_sort_token_set,unmatched,country=DENMARK|first_char=t|first_token=tourcompass
+SUS0012541,"utsunomiyatoryoukougyou Co.,Ltd",utsunomiyatoryoukougyou,,,38.46153846153846,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=u|first_token=utsunomiyatoryoukougyou
+SUS0007180,HUMANIZER A/S,humanizer a s,,,84.61538461538461,combined_max_token_sort_token_set,unmatched,country=DENMARK|first_char=h|first_token=humanizer
+SUS0011589,"Jiangsu Hengtong Smart Grids Co.,Ltd.",jiangsu hengtong smart grids,,,63.63636363636363,combined_max_token_sort_token_set,unmatched,country=CHINA|first_char=j|first_token=jiangsu
+SUS0005027,AB Sagax,ab sagax,,,57.142857142857146,combined_max_token_sort_token_set,unmatched,country=SWEDEN|first_char=a|first_token=ab
+SUS0012929,RAINBOW FABART PRIVATE LIMITED,rainbow fabart private,,,77.77777777777777,combined_max_token_sort_token_set,unmatched,country=INDIA|first_char=r|first_token=rainbow
+SUS0003295,Pandox AB,pandox ab,,,80.0,combined_max_token_sort_token_set,unmatched,country=SWEDEN|first_char=p|first_token=pandox
+SUS0009277,"Followwind Co.,Ltd",followwind,,,45.45454545454546,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=f|first_token=followwind
+SUS0006496,"MaZROC CO., LTD.",mazroc,,,50.0,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=m|first_token=mazroc
+SUS0005729,"Kindom Development Co., LTD.",kindom development,,,75.86206896551724,combined_max_token_sort_token_set,unmatched,"country=TAIWAN, PROVINCE OF CHINA|first_char=k|first_token=kindom"
+SUS0008489,"uniaim CO.,LTD",uniaim,,,47.05882352941177,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=u|first_token=uniaim
+SUS0012431,"Tahara Die Casting Industry Co.,Ltd.",tahara die casting industry,,,56.52173913043479,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=t|first_token=tahara
+SUS0010773,PT. Morich Indo Fashion,morich indo fashion,,,43.90243902439025,combined_max_token_sort_token_set,unmatched,country=INDONESIA|first_char=m|first_token=morich
+SUS0006887,"eftax Co., Ltd.",eftax,,,54.54545454545455,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=e|first_token=eftax
+SUS0009764,First American Corporation Private Limited,first american corporation private,,,66.66666666666666,combined_max_token_sort_token_set,unmatched,country=PAKISTAN|first_char=f|first_token=first
+SUS0013885,"SEKINE CO.,LTD.",sekine,,,42.10526315789474,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=s|first_token=sekine
+SUS0000070,"Daiwa Excel Co., Ltd.",daiwa excel,,,72.72727272727272,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=d|first_token=daiwa
+SUS0000226,Airties Group S.A.S.,airties group s a s,,,77.77777777777777,combined_max_token_sort_token_set,unmatched,country=TÜRKIYE|first_char=a|first_token=airties
+SUS0010508,M & P Group,m and p group,,,70.0,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=m|first_token=m
+SUS0012775,Honsin Apparel Sdn. Bhd.,honsin apparel sdn bhd,,,50.0,combined_max_token_sort_token_set,unmatched,country=MALAYSIA|first_char=h|first_token=honsin
+SUS0013769,goodadvice healthcare GmbH & Co. KG,goodadvice healthcare gmbh and co kg,,,39.43661971830986,combined_max_token_sort_token_set,unmatched,country=GERMANY|first_char=g|first_token=goodadvice
+SUS0006874,"Taisei Plas Co.,Ltd",taisei plas,,,70.58823529411765,combined_max_token_sort_token_set,unmatched,country=JAPAN|first_char=t|first_token=taisei
+SUS0006537,MURAPLAST d.o.o.,muraplast d o o,,,81.81818181818181,combined_max_token_sort_token_set,unmatched,country=CROATIA|first_char=m|first_token=muraplast
+SUS0012728,GRAVINER,graviner,,,57.142857142857146,combined_max_token_sort_token_set,unmatched,country=PORTUGAL|first_char=g|first_token=graviner
+SUS0014068,Airport Authority Hong Kong,airport authority hong kong,,,70.0,combined_max_token_sort_token_set,unmatched,country=NA|first_char=a|first_token=airport

@@ -1,0 +1,38 @@
+{
+  "timestamp_utc": "2026-02-27T17:11:13Z",
+  "inputs": {
+    "level1": {
+      "path": "/Users/faizkrisnadi/Downloads/20260219-gleif-concatenated-file-lei2.xml.6996d6943c89b.zip",
+      "exists": true,
+      "size_bytes": 498958047,
+      "detected_type": "zip"
+    },
+    "level2": {
+      "path": "/Users/faizkrisnadi/Downloads/20260219-gleif-concatenated-file-rr.xml.6996d3f429e09.zip",
+      "exists": true,
+      "size_bytes": 35523396,
+      "detected_type": "zip"
+    }
+  },
+  "level1": {
+    "rows_read": 3219530,
+    "rows_written": 3219530,
+    "skipped_rows": 0
+  },
+  "level2": {
+    "rows_read": 634561,
+    "rows_written": 634561,
+    "skipped_rows": 0
+  },
+  "outputs": {
+    "gleif_entities_clean.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/gleif_entities_clean.csv",
+    "gleif_relationships_clean.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/gleif_relationships_clean.csv",
+    "nodes.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/nodes.csv",
+    "edges.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/edges.csv",
+    "nodes_csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/nodes.csv",
+    "edges_csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/edges.csv",
+    "sustainability_source.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/sustainability_source.csv",
+    "match_crosswalk.csv": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/match_crosswalk.csv",
+    "match_diagnostics.json": "/Users/faizkrisnadi/sustainability-gleif-matching-network/data/processed/match_diagnostics.json"
+  }
+}

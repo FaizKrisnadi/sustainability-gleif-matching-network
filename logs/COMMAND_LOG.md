@@ -1,0 +1,44 @@
+# Command Log
+- [2026-02-27T08:44:17Z] python -m src.cli inspect-inputs
+- [2026-02-27T08:46:58Z] python -m src.cli preprocess-gleif-level1
+- [2026-02-27T15:20:54Z] python -m src.cli inspect-inputs
+- [2026-02-27T15:54:33Z] python -m src.cli inspect-inputs
+- [2026-02-27T15:55:53Z] python -m src.cli preprocess-gleif-level1
+- [2026-02-27T16:43:54Z] python -m src.cli preprocess-gleif-level2
+- [2026-02-27T16:51:29Z] python -m src.cli build-network
+- [2026-02-27T16:53:35Z] python -m src.cli build-sustainability-source
+- [2026-02-27T16:54:53Z] python -m src.cli match-sustainability
+- [2026-02-27T17:10:30Z] python -m src.cli match-sustainability
+- [2026-02-27T17:15:40Z] python -m src.cli inspect-inputs
+- [2026-02-27T17:16:20Z] python -m src.cli inspect-inputs
+- [2026-02-27T17:34:01Z] ls -l data/processed/match_crosswalk.csv data/processed/review_candidates.csv data/processed/edges.csv data/processed/nodes.csv data/processed/nodes_in_network.csv
+- [2026-02-27T17:34:01Z] ls -la tools 2>/dev/null || echo 'tools directory missing'
+- [2026-02-27T17:34:01Z] sed -n '1,260p' src/cli.py
+- [2026-02-27T17:34:01Z] sed -n '1,220p' Makefile
+- [2026-02-27T17:34:10Z] python - <<'PY' ... (inspect columns in match_crosswalk/edges/nodes) ... PY
+- [2026-02-27T17:34:10Z] sed -n '1,220p' docs/data_dictionary.md
+- [2026-02-27T17:34:10Z] sed -n '1,220p' README.md
+- [2026-02-27T17:34:10Z] sed -n '1,220p' logs/COMMAND_LOG.md; sed -n '1,220p' logs/DECISION_LOG.md; sed -n '1,220p' logs/ERROR_LOG.md
+- [2026-02-27T17:34:39Z] sed -n '1,220p' pyproject.toml
+- [2026-02-27T17:39:40Z] python tools/sample_matching_eval.py
+- [2026-02-27T17:39:52Z] python tools/generate_matching_eval_report.py
+- [2026-02-27T17:40:10Z] python tools/network_sanity.py
+- [2026-02-27T17:40:20Z] python -m pytest -q
+- [2026-02-27T17:40:32Z] sed -n '1,80p' docs/matching_eval.md
+- [2026-02-27T17:40:32Z] sed -n '1,80p' docs/network_sanity.md
+- [2026-02-27T17:40:32Z] python - <<'PY' ... (print key summary from data/samples/network_stats.json) ... PY
+- [2026-02-27T17:40:32Z] rg -n '<ABSOLUTE_USER_PATH_PATTERN>' README.md docs/*.md logs/*.md || true
+- [2026-02-27T17:40:32Z] git status --short README.md Makefile src/cli.py docs data/samples data/processed/nodes_in_network.csv tools logs
+- [2026-02-27T17:40:46Z] date -u +"%Y-%m-%dT%H:%M:%SZ"
+- [2026-02-27T17:40:54Z] sed -n '1,260p' logs/COMMAND_LOG.md
+- [2026-02-27T17:40:54Z] sed -n '1,260p' logs/DECISION_LOG.md
+- [2026-02-27T17:40:54Z] sed -n '1,260p' logs/ERROR_LOG.md
+- [2026-02-27T17:41:33Z] sed -n '1,40p' docs/matching_eval.md
+- [2026-02-27T17:41:33Z] sed -n '1,40p' docs/network_sanity.md
+- [2026-02-27T17:41:33Z] cat data/samples/network_stats.json
+- [2026-02-27T17:41:33Z] rg -n '<ABSOLUTE_USER_PATH_PATTERN>' README.md docs/*.md logs/*.md || true
+- [2026-02-27T17:41:33Z] find tools docs data/samples logs -maxdepth 1 -type f | sort
+- [2026-02-27T17:42:07Z] rg -n '<ABSOLUTE_USER_PATH_PATTERN>' README.md docs/*.md logs/*.md || true
+- [2026-02-27T17:42:40Z] python -m src.cli --help | sed -n '1,120p'
+- [2026-02-27T17:43:01Z] git rev-parse --is-inside-work-tree && git status --short
+- [2026-02-27T17:43:18Z] rg -n '<ABSOLUTE_USER_PATH_PATTERN>' README.md docs/*.md logs/*.md || true

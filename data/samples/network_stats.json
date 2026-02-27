@@ -1,0 +1,200 @@
+{
+  "generated_at_utc": "2026-02-27T17:40:10Z",
+  "n_edges": 634108,
+  "n_nodes_total": 3219530,
+  "n_nodes_in_network": 419236,
+  "n_self_loops": 6429,
+  "missing_node_info_count": 86,
+  "missing_node_info_example_leis": [
+    "00000000000000000000",
+    "2002HX6QNAELPE6I0R71",
+    "20332RBLINWN4FZEV448",
+    "20333Q6YLIHBVO16EY69",
+    "254900014X4G6QOSPF80",
+    "2549001NXMNILOWGJ882",
+    "254900MV34O8N8LGQF94",
+    "5493008DK8RTOTIUZN79",
+    "5493008DK8RTOTIUZN83",
+    "5493008DK8RTOTIUZN86",
+    "5493008DK8RTOTIUZN87",
+    "549300TESTLEI0000258",
+    "5493OON63RJKPUYAY631",
+    "5921004PH8KT7RYQSQ45",
+    "592100OY5ROT0H0GM206",
+    "6461005JJCS7JHMLX280",
+    "6461005JOWBZ6GYHKM18",
+    "6461005TPECFLQCG3X51",
+    "646100613RWA2HQP3I14",
+    "646100DJMVO6OSILQI18"
+  ],
+  "top_20_out_degree": [
+    {
+      "parent_lei": "213800OYS5CYQ7BW8K97",
+      "out_degree": 7
+    },
+    {
+      "parent_lei": "81560097DD19407C3F80",
+      "out_degree": 7
+    },
+    {
+      "parent_lei": "8156006711DAEC1C0D75",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800O177ZTFGMLO414",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "9598007LNBDN3LQBH351",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "5299004BYUT68M9WBP64",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800MAI2RVVNANUA62",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800Z61IACVIM9AE42",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "529900201VGYOC11PH23",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "2138004WPXEIJZCZCK04",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "8156003B025E8C7A2D02",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800XEND33T1PEMK68",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800XEQIVBOWAX7278",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "969500ZRRUKQR7IEA748",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "815600E5D4D316FC4420",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "969500AWC3GWZRAT8G14",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "213800VBFE5G7LH67L96",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "81560057AE1FA6AAF369",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "8156005AF68BDFAC1945",
+      "out_degree": 6
+    },
+    {
+      "parent_lei": "253400QJ9FJ1W4HEEX74",
+      "out_degree": 6
+    }
+  ],
+  "top_20_in_degree": [
+    {
+      "child_lei": "549300300IVF7LGDV529",
+      "in_degree": 5309
+    },
+    {
+      "child_lei": "5493009GCYS5Q8HOI372",
+      "in_degree": 4106
+    },
+    {
+      "child_lei": "DQ2T0MMUTO0IPF9G9Z35",
+      "in_degree": 2578
+    },
+    {
+      "child_lei": "784F5XWPLTWKTBV3E584",
+      "in_degree": 2392
+    },
+    {
+      "child_lei": "7LTWFZYICNSX8D621K86",
+      "in_degree": 1362
+    },
+    {
+      "child_lei": "W51AX6427FJZJFPF8H34",
+      "in_degree": 1288
+    },
+    {
+      "child_lei": "549300TDFL442EPSLM98",
+      "in_degree": 1282
+    },
+    {
+      "child_lei": "IGJSJL3JD5P30I6NJZ34",
+      "in_degree": 1116
+    },
+    {
+      "child_lei": "969500WCY7P9HOJNP063",
+      "in_degree": 1106
+    },
+    {
+      "child_lei": "549300RK1FB0VMTPD087",
+      "in_degree": 1094
+    },
+    {
+      "child_lei": "5493005EBZDOXNFCKY36",
+      "in_degree": 1009
+    },
+    {
+      "child_lei": "969500BXTBE4U1HLLF51",
+      "in_degree": 998
+    },
+    {
+      "child_lei": "5493003QNP1E68GGMZ05",
+      "in_degree": 889
+    },
+    {
+      "child_lei": "5493001Z012YSB2A0K51",
+      "in_degree": 829
+    },
+    {
+      "child_lei": "2221002W65PS26SQKX63",
+      "in_degree": 807
+    },
+    {
+      "child_lei": "6SHGI4ZSSLCXXQSBB395",
+      "in_degree": 796
+    },
+    {
+      "child_lei": "529900NZCIJDWLUHCS06",
+      "in_degree": 784
+    },
+    {
+      "child_lei": "635400XKS4TFYYAQ1K41",
+      "in_degree": 781
+    },
+    {
+      "child_lei": "5493004330BCAPB3GT42",
+      "in_degree": 776
+    },
+    {
+      "child_lei": "9DJT3UXIJIZJI4WXO774",
+      "in_degree": 773
+    }
+  ],
+  "undirected_degree_summary": {
+    "min": 0,
+    "median": 1.0,
+    "max": 5309
+  },
+  "nodes_in_network_file_created": false
+}

@@ -6,11 +6,7 @@ Portfolio-grade entity resolution and ownership-network pipeline for tracing whe
 
 Open the deployed page at [pledges.faizkrisnadi.com](https://pledges.faizkrisnadi.com/).
 
-<p>
-  <a href="https://pledges.faizkrisnadi.com/">
-    <img src="docs/assets/pledges-preview.png" alt="Preview of the Sustainability GLEIF Matching Network explainer page" width="900">
-  </a>
-</p>
+[![Preview of the Sustainability GLEIF Matching Network explainer page](https://raw.githubusercontent.com/FaizKrisnadi/sustainability-gleif-matching-network/main/docs/assets/pledges-preview.png)](https://pledges.faizkrisnadi.com/)
 
 ## What This Repo Does
 - Parses and cleans GLEIF Level 1 and Level 2 entity data.
